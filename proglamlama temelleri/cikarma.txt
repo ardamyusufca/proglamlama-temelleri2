@@ -1,0 +1,8 @@
+#girilen 2 sayıyla 1 işlem yapabilen program
+sayi1=input("1.sayıyı gir:")
+sayi2=input("2.sayıyı gir:")
+
+cıkarma=int(sayi1) - int(sayi2)
+
+print("girdiğiniz sayıların cıkarımı: ",cıkarma)
+

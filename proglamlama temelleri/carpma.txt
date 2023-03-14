@@ -1,0 +1,7 @@
+#girilen 2 sayýyla 1 iþlem yapabilen program
+sayi1=input("1.sayýyý gir:")
+sayi2=input("2.sayýyý gir:")
+
+carpma=int(sayi1) * int(sayi2)
+
+print("girdiðiniz sayýlarýn carpýmý: ",carpma)
