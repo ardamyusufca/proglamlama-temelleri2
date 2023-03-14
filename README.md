@@ -1,1 +1,0 @@
-# proglamlama-temelleri2
